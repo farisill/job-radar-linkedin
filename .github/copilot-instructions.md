@@ -1,3 +1,8 @@
 - This is a browser extension for Firefox.
 - The main goal is to check job cards for some chosen keywords and highlight the ones that are relevant for the user.
 - If you add some nice-to-have features to the code that are not quite requested, inform the designer about them.
+- The folder src in the root.
+- The popup folder contains the files managing the popup window.
+- The icon folder contains the image files for the extension.
+- "content-style.css" contains the styles for the visual cues that the extension will apply to the elements in the webpage.
+- background.js, manifest.json, content.js contains the rest of the features of the extension.
