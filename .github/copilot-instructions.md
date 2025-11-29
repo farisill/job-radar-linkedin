@@ -1,0 +1,3 @@
+- This is a browser extension for Firefox.
+- The main goal is to check job cards for some chosen keywords and highlight the ones that are relevant for the user.
+- If you add some nice-to-have features to the code that are not quite requested, inform the designer about them.
